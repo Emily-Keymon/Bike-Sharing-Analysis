@@ -9,19 +9,19 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 
 ---
 ## Tools Used
-* 
+* Jupyter Notebook
+* Python - Pandas
+* Microsoft Word
+
+---
+## Tasks
+
+
 
 
 Website:  https://public.tableau.com/profile/red.rulz#!/vizhome/Citi_Bike_Analysis_16037624781880/CitiBikeAnalysisStartTimes
 
 
-## Background
-
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
-
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
-
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 ## Task
 
@@ -47,9 +47,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
-## Considerations
-
-Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
 
 ## Submission 
 
