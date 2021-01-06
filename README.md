@@ -16,7 +16,9 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 
 ---
 ## Tasks
-### 
+### Data Retrieval
+1.  Downloaded CSV file from https://www.citibikenyc.com/system-data.
+2.  
 
 
 ---
