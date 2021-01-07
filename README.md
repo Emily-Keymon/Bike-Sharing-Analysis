@@ -30,7 +30,7 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 
 
 ###  Create Data Visualizations
-* Data:
+#### Data:
 1.  Biker Count & Total Trip Duration
 2.  Average Age of Bikers by Gender
 3.  Average Trip Duration by Age & Gender
