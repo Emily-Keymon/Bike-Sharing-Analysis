@@ -16,10 +16,21 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 
 ---
 ## Tasks
-### Data Extraction
+### Extract
 1.  Downloaded CSV file from https://www.citibikenyc.com/system-data.
 2.  Read csv file into pandas.
 
+### Transform
+1.  Determined data types.
+2.  Dropped N/A values from dataframe.
+3.  Saved cleaned data to csv file.
+
+### Load
+1.  Imported csv file into Tableau.
+
+
+###  Create Visualizations
+1.  
 
 
 ---
