@@ -35,8 +35,24 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 2.  Average Age of Bikers by Gender
 3.  Average Trip Duration by Age & Gender
 4.  Trip Duration by Gender
- 
 
+#### Location:
+1.  Starting Locations Map
+2.  Ending Locations Map
+3.  Station 497 Count by Age & Gender of Bikers
+4.  Station 497 Age & Gender of Bikers
+5.  Station 497 Average Age & Gender
+
+#### Time:
+1.  Popular Start Times
+2.  Start & Stop Times Average Age by Gender
+3.  Popular Stop Times
+
+#### Day:
+1.  Start Times by Day
+2.  Stop Times by Day
+3.  Average Age of Bikers by Day
+4.  Average Age of Bikers by Day by Gender
 
 ---
 ## Results
