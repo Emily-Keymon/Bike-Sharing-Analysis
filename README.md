@@ -29,8 +29,13 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 1.  Imported csv file into Tableau.
 
 
-###  Create Visualizations
-1.  
+###  Create Data Visualizations
+* Data:
+1.  Biker Count & Total Trip Duration
+2.  Average Age of Bikers by Gender
+3.  Average Trip Duration by Age & Gender
+4.  Trip Duration by Gender
+ 
 
 
 ---
