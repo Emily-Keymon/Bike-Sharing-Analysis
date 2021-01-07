@@ -37,3 +37,7 @@ The New York Citi Bike Program is the largest bike sharing program in the United
 ## Results
 * Website:  https://public.tableau.com/profile/red.rulz#!/vizhome/Citi_Bike_Analysis_16037624781880/CitiBikeAnalysisStartTimes
 
+* Popular Starting Locations Map
+![starting_locations_map](https://user-images.githubusercontent.com/64673015/103834894-52afff80-504a-11eb-99b4-cdd9aa915462.PNG)
+
+
